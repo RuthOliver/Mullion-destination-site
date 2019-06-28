@@ -7,6 +7,6 @@ I was hugely inspired by a YouTube tutorial by Layout Land : "Responsive Mondria
 (https://www.youtube.com/watch?v=qNtJ5p3h2A4&t=458s)
 My thought was that local businesses could "sponser" a tile for a varied price range depending on the size.
 
-To improve this project in the future I would like to review compatability with older browsers.
+To improve this project in the future I would like to review compatibility with older browsers.
 
 Please see the credits file for details of image owners etc.
